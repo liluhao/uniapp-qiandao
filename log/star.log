@@ -1,0 +1,14 @@
+{"level":"INFO","timestamp":"2022-05-25 22:20:30.965","file":"store/class.go:69","msg":"获取所有班级：一共有：6个用户"}
+{"level":"INFO","timestamp":"2022-05-25 22:20:30.994","file":"store/class.go:82","msg":"获取所有班级列表成功"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:04.757","file":"store/user.go:31","msg":"创建班级：成功创建:1条记录"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:04.760","file":"store/user.go:43","msg":"维护班级用户中间表：成功创建:1条记录"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:14.242","file":"store/user.go:154","msg":"查找到账号为: 15516535379 的信息"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:14.253","file":"store/class.go:69","msg":"获取所有班级：一共有：6个用户"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:14.259","file":"store/class.go:82","msg":"获取所有班级列表成功"}
+{"level":"ERROR","timestamp":"2022-05-25 22:21:15.843","file":"store/lesson.go:47","msg":"指定查找的课程记录不存在"}
+{"level":"ERROR","timestamp":"2022-05-25 22:21:18.504","file":"store/lesson.go:47","msg":"指定查找的课程记录不存在"}
+{"level":"INFO","timestamp":"2022-05-25 22:21:19.970","file":"store/lesson.go:125","msg":"获取用户加入课程成功%!(EXTRA []*viewmodel.ListObj=[0xc00068eaf0 0xc00068eb40 0xc00068eb90 0xc00068ebe0 0xc00068ec30 0xc00068ec80 0xc00068ecd0])"}
+{"level":"ERROR","timestamp":"2022-05-25 22:22:04.660","file":"store/lesson.go:47","msg":"指定查找的课程记录不存在"}
+{"level":"INFO","timestamp":"2022-05-25 22:22:09.709","file":"service/checkinService.go:278","msg":"获取用户'356a702b-327c-41e6-8cc8-e15b5b7e0579'的签到记录成功"}
+{"level":"INFO","timestamp":"2022-05-25 22:22:09.741","file":"service/checkinService.go:240","msg":"获取用户'356a702b-327c-41e6-8cc8-e15b5b7e0579'已创建的签到成功"}
+{"level":"ERROR","timestamp":"2022-05-25 22:22:12.221","file":"store/lesson.go:47","msg":"指定查找的课程记录不存在"}
